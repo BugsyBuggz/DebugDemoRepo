@@ -73,7 +73,7 @@ function myDesign(x,y,r) {
   } else if (x == 0) {
     fill(circleColors[1]);
   } else if (x == 1){
-    fill(circleColorss[2]);
+    fill(circleColors[2]);
   }
   push();
   translate(width/2,height/2);
