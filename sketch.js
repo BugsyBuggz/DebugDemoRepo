@@ -10,7 +10,7 @@ let circleColors = [
 
 // Array for accent colors
 let accentColors = [
-  '0CF574',
+  '#0CF574',
   '#EDF4ED'
 ]
 

@@ -7,7 +7,7 @@ html, body {
 }
 canvas {
   display: block;
-  margin: ato;
+  margin: auto;
   border-radius: 200px;
   border: 5px solid 5B507A;
   margin-top: 50px;
@@ -23,7 +23,7 @@ h1 {
   color: #5B507A;
 }
 
-h1:first-letterr {
+h1:first-letter {
   color: #F92A82;
   font-size: 50px;
   text-decoration: underline;
