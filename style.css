@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Yatra+One&display=swap');
+
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: #EDF4ED;
+}
+canvas {
+  display: block;
+  margin: ato;
+  border-radius: 200px;
+  border: 5px solid 5B507A;
+  margin-top: 50px;
+}
+
+h1 {
+  font-family: "Yatra One", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  text-align: center;
+  margin: auto;
+  margin-top: 50px;
+  color: #5B507A;
+}
+
+h1:first-letterr {
+  color: #F92A82;
+  font-size: 50px;
+  text-decoration: underline;
+}
